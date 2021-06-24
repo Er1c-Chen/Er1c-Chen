@@ -1,7 +1,7 @@
 ## Hi there!!!👋
-This is Er1c😵
-## About Er1c
--Year3(in a minute) student @Dalian University of Technology.
+### This is Er1c😎
+## All About Er1c
+-Year 3(in a minute) student @Dalian University of Technology.
 
 -Interested in: 
 
