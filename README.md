@@ -14,7 +14,7 @@
     And money by the way💰
   
 -Currently working as a ctrl+C/V engineer.😅
-### Get to more
+### Get to know more
 E-mail:eric_chen@mail.dlut.edu.cn
 
 Weibo:@某三无君
