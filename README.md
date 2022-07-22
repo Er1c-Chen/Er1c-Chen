@@ -11,9 +11,8 @@
   
     A bit of philosophy📚
   
-    And money by the way💰
   
--Currently working as a ctrl+C/V engineer.😅
+-Currently working as a ctrl+C/V engineer.
 ### Get to know more
 E-mail:eric_chen@mail.dlut.edu.cn
 
