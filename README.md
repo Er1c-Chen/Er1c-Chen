@@ -1,19 +1,21 @@
-## Hi there!!!👋
-### This is Er1c😎
-## All About Er1c
--Year 3(in a minute) student @Dalian University of Technology.
+## Hi there!
+
+## All About Me
+-Year 4 (in a minute) student @Dalian University of Technology.
+-Year 1 (probably) student @University of Bristol.
 
 -Interested in: 
 
-    Computer vision👀
+    Computer vision
   
-    Machine learning💻
+    Machine learning
   
-    A bit of philosophy📚
+    A bit of philosophy
   
   
 -Currently working as a ctrl+C/V engineer.
-### Get to know more
+
+### Contact
 E-mail:eric_chen@mail.dlut.edu.cn
 
 Weibo:@某三无君
