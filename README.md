@@ -1,15 +1,17 @@
 ## Hi there!
 
 ## All About Me
--Year 4 (in a minute) student @Dalian University of Technology.
-
--Year 1 (probably) student @University of Bristol.
-
+# 2019 - 2023
+- Bachelor of Engineering in Artificial Intelligence, Dalian University of Technology, Dalian 116024, China
+# 2022 - 2023
+- Master of Science in Robotics, University of Bristol, Bristol BS8 1QU, United Kingdom
+# 2024 - Now
+- Ph.D. in Engineering, IDLab, Ghent University - imec, Ghent 9000, Belgium
 -Interested in: 
 
-    Computer vision
+    Time Series Analysis
   
-    Machine learning
+    Machine Learning
   
     A bit of philosophy
   
@@ -17,9 +19,8 @@
 -Currently working as a ctrl+C/V engineer.
 
 ### Contact
-E-mail:eric_chen@mail.dlut.edu.cn
-
-Weibo:@某三无君
+School/Work: Hongbing.Chen@UGent.be
+Personal: hongb.chen@outlook.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Er1c-Chen&show_icons=true&theme=cobalt)
 
