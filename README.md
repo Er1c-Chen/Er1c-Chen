@@ -8,7 +8,7 @@
 - Master of Science in Robotics, University of Bristol, Bristol BS8 1QU, United Kingdom
 
 2024 - Now
-- Ph.D. in Engineering, IDLab, Ghent University - imec, Ghent 9000, Belgium
+- Ph.D. in Engineering, IDLab, Ghent University - imec, Ghent 9052, Belgium
 
   
 ## Interested in: 
