@@ -23,9 +23,9 @@
 -Currently working as a ctrl+C/V engineer.
 
 ## Contact
-School/Work: Hongbing.Chen@UGent.be
+School/Work: Hongbing[dot]Chen[at]UGent[dot]be
 
-Personal: hongb.chen@outlook.com
+Personal: hongb[dot]chen[at]outlook[dot]com
 
 ## Miscellaneous
 
