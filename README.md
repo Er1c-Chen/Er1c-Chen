@@ -1,11 +1,11 @@
 ## Hi there :p
 
 ## All About Me
-- Bachelor of Engineering in Artificial Intelligence, Dalian University of Technology, Dalian, China    2019 - 2023
+- Bachelor of Engineering in Artificial Intelligence, Dalian University of Technology, Dalian, China *2019 - 2023*
 
-- Master of Science in Robotics, University of Bristol & University of the West of England, Bristol, England, United Kingdom    2022 - 2023
+- Master of Science in Robotics, University of Bristol & University of the West of England, Bristol, England, United Kingdom *2022 - 2023*
 
-- Ph.D. in Engineering, IDLab, Ghent University - imec, Ghent, East Flanders, Belgium    2024 - Now
+- Ph.D. in Engineering, IDLab, Ghent University - imec, Ghent, East Flanders, Belgium *2024 - Now*
 
   
 ## Interested in: 
